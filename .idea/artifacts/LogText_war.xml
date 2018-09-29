@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LogText:war">
+    <output-path>$PROJECT_DIR$/../LogText/target</output-path>
+    <root id="archive" name="LogText-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LogText:war exploded" />
+    </root>
+  </artifact>
+</component>
